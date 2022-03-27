@@ -5,4 +5,4 @@ api-version: 1.15
 load: STARTUP
 loadbefore: [ start.sh ]
 authors: [ House_1, 254nm ]
-description: Just a patch for lightlag
+description: Just a patch for lightlag, thx mason for helping me
